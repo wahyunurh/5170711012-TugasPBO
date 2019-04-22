@@ -1,0 +1,4 @@
+Pada program ini overriding terdapat pada anak class (MakananKesukaan dan Hobi),
+untuk protected terdapat pada class Manusia dan MakanKesukaan, Pewarisan terdapat pada class Manusia
+class manusia juga sebagai subclass, data yang akan dimunculkan pada output di panggil pada Class javaApplication9(package).
+output akan menampilkan (nama,alamat,usia,tinggi badan,berat badan, makanan kesukaan, minuman kesukaan, hobi, kegiatan).
